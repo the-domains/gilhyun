@@ -1,0 +1,28 @@
+name: gilhyun
+favicon: null
+layout_spectrum: 0.49045721162110567
+typography_spectrum: 0.09357726015150547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8846156210638583
+  lightness: 0.5601164111867547
+  saturation: 0.03380132280290127
+  rhythmicContrast: 0.7510118365753442
+purpose: []
